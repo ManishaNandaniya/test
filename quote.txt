@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 do or die - unknown
 success is a result of failure - rumi
 bfvnfbv
+=======
+do or die - unknown
+>>>>>>> parent of 033ab4a... second one
